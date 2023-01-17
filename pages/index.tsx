@@ -58,7 +58,7 @@ export default function Home() {
             <div className='rounded-xl bg-slate-50 py-6 px-3 mx-2'>
               <h2 className="text-sm font-light tracking-widest leading-8 text-neutral-500 font-['Prompt']">IN PROGRESS</h2>
               <h2 className="text-2xl font-medium tracking-widest leading-8 text-neutral-900 font-['Prompt']">AMSA-THAILAND WEBSITE TEAM</h2>
-              <p className="mt-1 font-semimedium tracking-wide text-neutral-400 text-xl font-['Prompt']">Working as a back-end developer for the Asian Medical Students' Association of Thailand's Website Team. </p>
+              <p className="mt-1 font-semimedium tracking-wide text-neutral-400 text-xl font-['Prompt']">Working as a back-end developer for the Asian Medical Students&apos;s Association of Thailand&apos;s Website Team. </p>
             </div>
             <div className='rounded-xl bg-slate-50 py-6 px-3 mx-2'>
               <h2 className="text-sm font-light tracking-widest leading-8 text-neutral-500 font-['Prompt']">IN PROGRESS</h2>
@@ -89,7 +89,7 @@ export default function Home() {
             <div className='rounded-xl bg-slate-50 py-6 px-3 mx-2'>
               <h2 className="text-sm font-light tracking-widest leading-8 text-neutral-500 font-['Prompt']">COMPLTETED</h2>
               <h2 className="text-2xl font-medium tracking-widest leading-8 text-neutral-900 font-['Prompt']">YOUTUBE TRENDING ANALYSIS</h2>
-              <p className="mt-1 font-semimedium tracking-wide text-neutral-400 text-xl font-['Prompt']">This is my project to create a YouTube video recommendation system based on the user's behavior. </p>
+              <p className="mt-1 font-semimedium tracking-wide text-neutral-400 text-xl font-['Prompt']">This is my project to create a YouTube video recommendation system based on the user&apos;s behavior. </p>
               <Link href="https://github.com/sawid/Linear_Project_Web_Application"><p className="mt-1 font-light tracking-wide text-neutral-400 text-md font-['Prompt']">See more on My Github </p></Link>
             </div>
           </div>
